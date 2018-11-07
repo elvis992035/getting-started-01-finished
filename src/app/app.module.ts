@@ -20,7 +20,8 @@ import { StarsComponent } from './stars/stars.component';
     StarsComponent
   ],
   imports: [
-    BrowserModule
+    BrowserModule,
+
   ],
   providers: [],
   bootstrap: [AppComponent]
